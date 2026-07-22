@@ -164,7 +164,7 @@
   {
     "id": 28,
     "text": "\"〜すぎる\" attaches to verbs or adjectives to mean \"too much\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -242,7 +242,7 @@
   {
     "id": 41,
     "text": "\"〜ことができる\" expresses ability, like \"can do\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -374,7 +374,7 @@
   {
     "id": 63,
     "text": "\"〜に比べて\" means \"compared to...\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -453,7 +453,7 @@
     "id": 76,
     "text": "\"〜ことになっている\" means \"it is decided/arranged that...\".",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 77,
@@ -602,7 +602,7 @@
   {
     "id": 101,
     "text": "\"〜てもらう\" means \"receive a favor\" from someone. (practice variation 16)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

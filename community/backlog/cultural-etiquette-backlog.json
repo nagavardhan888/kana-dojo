@@ -167,7 +167,7 @@
     "dont": "両側を塞ぐ",
     "note": "地域差に注意。",
     "id": 19,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -239,7 +239,7 @@
     "dont": "参道の中央を歩く",
     "note": "中央は神様の通り道とされる。",
     "id": 27,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -302,7 +302,7 @@
     "dont": "初対面でタメ口を使う",
     "note": "距離感が縮まるまでは敬語が無難。",
     "id": 34,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -950,7 +950,7 @@
     "dont": "ご飯に箸を立てる",
     "note": "立て箸は弔事連想のため避ける。",
     "id": 106,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1022,7 +1022,7 @@
     "dont": "初対面でタメ口を使う",
     "note": "距離感が縮まるまでは敬語が無難。",
     "id": 114,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

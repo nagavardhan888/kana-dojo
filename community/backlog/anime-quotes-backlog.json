@@ -16,7 +16,7 @@
     "english": "Yes! Yes! Yes! Yes!",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -286,7 +286,7 @@
     "english": "Mama mama mama.",
     "anime": "One Piece",
     "character": "Charlotte Linlin (Big Mom)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -526,7 +526,7 @@
     "english": "Road roller! (alt wording 1)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1076,7 +1076,7 @@
     "english": "But I refuse. (alt wording 4) (alt wording 56)",
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Rohan Kishibe",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1226,7 +1226,7 @@
     "english": "What?! (alt wording 19) (alt wording 71)",
     "anime": "Fist of the North Star",
     "character": "Shin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
