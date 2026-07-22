@@ -422,7 +422,7 @@
   {
     "id": 71,
     "text": "\"〜わけにはいかない\" means \"cannot (due to circumstances)\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -464,7 +464,7 @@
   {
     "id": 78,
     "text": "\"〜ながら\" can mean \"while\" (simultaneous action).",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
